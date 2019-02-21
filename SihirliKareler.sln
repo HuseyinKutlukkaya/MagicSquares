@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SihirliKareler", "SihirliKareler\SihirliKareler.csproj", "{ACD9EAF0-08AE-4C4A-B147-9F28A1A1B985}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SihirliKarelerSetup", "SihirliKarelerSetup\SihirliKarelerSetup.vdproj", "{C6F23B3D-91AD-4CA6-A975-5AB08577E91F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD9EAF0-08AE-4C4A-B147-9F28A1A1B985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACD9EAF0-08AE-4C4A-B147-9F28A1A1B985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACD9EAF0-08AE-4C4A-B147-9F28A1A1B985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACD9EAF0-08AE-4C4A-B147-9F28A1A1B985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F23B3D-91AD-4CA6-A975-5AB08577E91F}.Debug|Any CPU.ActiveCfg = Debug
+		{C6F23B3D-91AD-4CA6-A975-5AB08577E91F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
